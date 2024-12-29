@@ -86,17 +86,37 @@
   <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,pycharm,figma&theme=dark" alt="Development Tools" />
 </div>
 </div>
+<span style="color:#7C3AED; font-size: 24px; font-weight: bold;">GitHub Analytics</span>
 
-## <span style="color:#7C3AED">GitHub Analytics</span>
-
-<div style="background-color: #1F2937; padding: 25px; border-radius: 12px; margin: 20px 0; box-shadow: 0 4px 6px -1px rgba(124, 58, 237, 0.1);">
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rythmokay&show_icons=true&count_private=true&hide=prs&theme=github_dark&border_color=3B82F6&border_radius=12&bg_color=1F2937" alt="Rythm's GitHub Stats" height="160" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rythmokay&theme=github-dark-blue&border=3B82F6&background=1F2937&border_radius=12" alt="GitHub Streak" height="160" />
+<div style="background-color: #1F2937; padding: 40px; border-radius: 25px; margin: 40px 0; box-shadow: 0 6px 12px rgba(124, 58, 237, 0.3); border: 3px solid #3B82F6;">
+  <!-- GitHub Stats -->
+  <div align="center" style="margin-bottom: 35px; position: relative;">
+    <div style="border: 3px solid #3B82F6; border-radius: 25px; background: rgba(31, 41, 55, 0.6); box-shadow: 0 0 20px #3B82F6, inset 0 0 10px rgba(59, 130, 246, 0.5); padding: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=rythmokay&show_icons=true&count_private=true&hide=prs&theme=github_dark&border_color=3B82F6&border_radius=25&bg_color=1F2937&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff" alt="Rythm's GitHub Stats" height="160" width="400" style="max-width: 100%; height: auto;" />
+    </div>
   </div>
 
-  <div align="center" style="margin-top: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rythmokay&theme=github_dark&layout=compact&border_color=3B82F6&border_radius=12&bg_color=1F2937" alt="Top Languages" height="200" />
+  <!-- GitHub Streak -->
+  <div align="center" style="margin-bottom: 35px; position: relative;">
+    <div style="border: 3px solid #3B82F6; border-radius: 25px; background: rgba(31, 41, 55, 0.6); box-shadow: 0 0 20px #3B82F6, inset 0 0 10px rgba(59, 130, 246, 0.5); padding: 20px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rythmokay&theme=github-dark-blue&border=3B82F6&background=1F2937&border_radius=25&ring=3B82F6&fire=F85D7F&currStreakLabel=3B82F6&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" height="160" width="400" style="max-width: 100%; height: auto;" />
+    </div>
+  </div>
+
+  <!-- Top Languages -->
+  <div align="center" style="margin-bottom: 35px; position: relative;">
+    <div style="border: 3px solid #3B82F6; border-radius: 25px; background: rgba(31, 41, 55, 0.6); box-shadow: 0 0 20px #3B82F6, inset 0 0 10px rgba(59, 130, 246, 0.5); padding: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rythmokay&theme=github_dark&layout=compact&border_color=3B82F6&border_radius=25&bg_color=1F2937&title_color=3B82F6&text_color=ffffff" alt="Top Languages" height="200" width="400" style="max-width: 100%; height: auto;" />
+    </div>
+  </div>
+
+  <!-- Activity Graph -->
+  <div align="center" style="margin-bottom: 20px;">
+    <div style="border: 3px solid #3B82F6; border-radius: 25px; background: rgba(31, 41, 55, 0.6); box-shadow: 0 0 20px #3B82F6, inset 0 0 10px rgba(59, 130, 246, 0.5); padding: 20px;">
+      <img alt="RythmOkay's Activity Graph" 
+           src="https://github-readme-activity-graph.vercel.app/graph/?username=rythmokay&bg_color=1F2937&color=3B82F6&line=F85D7F&point=FFFFFF&area=true&area_color=3B82F6&border_radius=16&hide_border=true" 
+           style="width: 100%; border-radius: 20px;" />
+    </div>
   </div>
 </div>
 
