@@ -17,7 +17,8 @@
 ## <span style="color:#7C3AED">About Me</span>
 
 <div style="background-color: #1F2937; padding: 25px; border-radius: 12px; margin: 20px 0; box-shadow: 0 4px 6px -1px rgba(124, 58, 237, 0.1);">
-  I'm a full-stack web developer and freelancer currently pursuing a B.Tech in **AI and Data Science**. My journey in tech is driven by a passion for creating impactful solutions through code and data. I specialize in:
+  
+  I'm a full-stack web developer and freelancer currently pursuing a B.Tech in **AI and Data Science** . My journey in tech is driven by a passion for creating impactful solutions through code and data. I specialize in:
 
   - 🎯 Web Development & Data-Driven Applications
   - 🤖 Machine Learning & AI Implementation
