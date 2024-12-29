@@ -218,14 +218,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rythmokay&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
-## <span style="color:#3B82F6">Let's Connect!</span>
 
-<div align="center" style="background-color: #1F2937; padding: 25px; border-radius: 12px; margin: 20px 0;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Open+to+collaborating+on+innovative+projects;Let's+build+something+amazing+together;Feel+free+to+reach+out+for+opportunities!" alt="Connect Message" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rythmokay&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
