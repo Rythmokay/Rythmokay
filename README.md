@@ -43,7 +43,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-watch-000000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000)](https://youtube.com/@codingduck-quackquack?si=0ZH0YaPdsK1jMVdX)
 [![LeetCode](https://img.shields.io/badge/LeetCode-solve-000000?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116)](https://leetcode.com/u/rythmjagga1609/)
 [![GeeksforGeeks](https://img.shields.io/badge/GFG-code-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2F8D46)](https://www.geeksforgeeks.org/user/rythmgfg/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Contact-000000?style=for-the-badge&logo=fontawesome&logoColor=white&labelColor=d01989)](https://rythm-five.vercel.app/)</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Contact-000000?style=for-the-badge&logo=fontawesome&logoColor=white&labelColor=dark)](https://rythm-five.vercel.app/)</div>
 
 ## <span style="color:#10B981">Tech Stack</span>
 
