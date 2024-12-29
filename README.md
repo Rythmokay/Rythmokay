@@ -1,30 +1,112 @@
+# <span style="color:#7C3AED">Hey, I'm Rythm</span> 👋
 
-<h1 align="center">Hi 👋, I'm Rythm</h1>
-<h3 align="center">I’m a full-stack web developer and freelancer currently pursuing a B.Tech in AI and Data Science. My journey into tech began with a passion for programming, leading me to explore various areas, particularly data analysis, data science, and machine learning. I find great joy in problem-solving and have worked on multiple projects in these domains. While I'm new to freelancing, I’m eager to bring my skills to life and collaborate with clients. I’m always on the lookout for opportunities to learn and grow in the tech field.</h3>
+<div align="center">
+  <i><span style="color:#10B981">Full-stack Web Developer</span> • <span style="color:#3B82F6">AI & Data Science Enthusiast </span> • <span style="color:#7C3AED">Freelancer</span></i>
+</div>
 
-<p align="left"> <a href="https://twitter.com/rythmokay" target="blank"><img src="https://img.shields.io/twitter/follow/rythmokay?logo=twitter&style=for-the-badge" alt="rythmokay" /></a> </p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&duration=3000&pause=1000&color=3B82F6&background=FF000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+digital+solutions+through+code+and+data;Exploring+the+intersection+of+AI+and+web+development;Turning+ideas+into+reality%2C+one+project+at+a+time" alt="Typing SVG" />
+  </a>
+</div>
 
-- 👨‍💻 All of my projects are available at [https://rythm-five.vercel.app/](https://rythm-five.vercel.app/)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="dev_animation"/>
+</div>
 
-- 📫 How to reach me **rythm.gfg@gmail.com**
+## <span style="color:#7C3AED">About Me</span>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rythmokay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rythmokay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rythm-jagga-393791309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rythm-jagga-393791309/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/rythmj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rythmj" height="30" width="40" /></a>
-<a href="https://instagram.com/http://rythm_511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http://rythm_511" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/http://youtube.com/@codingduck-quackquack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://youtube.com/@codingduck-quackquack" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/rythmjagga1609/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rythmjagga1609/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/rythmgfg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/rythmgfg/" height="30" width="40" /></a>
-</p>
+<div style="background-color: #1F2937; padding: 25px; border-radius: 12px; margin: 20px 0; box-shadow: 0 4px 6px -1px rgba(124, 58, 237, 0.1);">
+  I'm a full-stack web developer and freelancer currently pursuing a B.Tech in **AI and Data Science**. My journey in tech is driven by a passion for creating impactful solutions through code and data. I specialize in:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+  - 🎯 Web Development & Data-Driven Applications
+  - 🤖 Machine Learning & AI Implementation
+  - 📊 Data Analysis & Visualization
+  - 💡 Problem-Solving & Algorithm Design
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rythmokay&show_icons=true&locale=en&layout=compact" alt="rythmokay" /></p>
+  Currently focusing on:
+  - Building robust full-stack applications
+  - Exploring advanced ML/AI concepts
+  - Contributing to open-source projects
+  - Expanding my freelance portfolio
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rythmokay&show_icons=true&locale=en" alt="rythmokay" /></p>
+## <span style="color:#3B82F6">Connect with Me</span>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rythmokay&" alt="rythmokay" /></p>
+<div align="center" style="background-color: #1F2937; padding: 20px; border-radius: 12px; margin: 20px 0; box-shadow: 0 4px 6px -1px rgba(59, 130, 246, 0.1);">
+  
+[![X (Twitter)](https://img.shields.io/badge/-follow-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://twitter.com/rythmokay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/rythm-jagga-393791309/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-profile-000000?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=20BEFF)](https://kaggle.com/rythmj)
+[![Instagram](https://img.shields.io/badge/Instagram-follow-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/rythm_511)
+[![YouTube](https://img.shields.io/badge/YouTube-watch-000000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000)](https://www.youtube.com/c/codingduck-quackquack)
+[![LeetCode](https://img.shields.io/badge/LeetCode-solve-000000?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116)](https://leetcode.com/u/rythmjagga1609/)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-code-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2F8D46)](https://www.geeksforgeeks.org/user/rythmgfg/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Contact-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=pink)](https://rythm-five.vercel.app/)</div>
 
+## <span style="color:#10B981">Tech Stack</span>
+
+<div style="background-color: #1F2937; padding: 25px; border-radius: 12px; margin: 20px 0;">
+
+**Frontend Development**
+<div align="center" style="margin: 15px 0;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind&theme=dark" alt="Frontend Skills" />
+</div>
+
+**Backend & Database**
+<div align="center" style="margin: 15px 0;">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,spring,postgresql&theme=dark" alt="Backend Skills" />
+</div>
+
+**Programming languages**
+<div align="center" style="margin: 15px 0;">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript&theme=dark" alt="Development Tools" />
+</div>
+
+**AI & Data Science**
+<div align="center" style="margin: 15px 0;">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" alt="ML Skills" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45" style="margin: 0 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45" style="margin: 0 10px;"/>
+</div>
+
+**Data Visualization**
+<div align="center" style="margin: 15px 0; display: flex; justify-content: center; align-items: center;">
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" style="height:50px; width:50px;"/>
+  <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" alt="Excel" style="height:50px;  ;"/>
+
+  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" width="200" height="50" style="margin: 0 10px; background-color: #1a1b27; border-radius: 5px;"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50" style="margin: 0 10px;"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau-icon.svg" alt="Tableau" width="50" height="50" style="margin: 0 10px;"/>
+</div>
+
+**Tools & Technologies**
+<div align="center" style="margin: 15px 0;">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,pycharm,figma&theme=dark" alt="Development Tools" />
+</div>
+</div>
+
+## <span style="color:#7C3AED">GitHub Analytics</span>
+
+<div style="background-color: #1F2937; padding: 25px; border-radius: 12px; margin: 20px 0; box-shadow: 0 4px 6px -1px rgba(124, 58, 237, 0.1);">
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rythmokay&show_icons=true&count_private=true&hide=prs&theme=github_dark&border_color=3B82F6&border_radius=12&bg_color=1F2937" alt="Rythm's GitHub Stats" height="160" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rythmokay&theme=github-dark-blue&border=3B82F6&background=1F2937&border_radius=12" alt="GitHub Streak" height="160" />
+  </div>
+
+  <div align="center" style="margin-top: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rythmokay&theme=github_dark&layout=compact&border_color=3B82F6&border_radius=12&bg_color=1F2937" alt="Top Languages" height="200" />
+  </div>
+</div>
+
+## <span style="color:#3B82F6">Let's Connect!</span>
+
+<div align="center" style="background-color: #1F2937; padding: 25px; border-radius: 12px; margin: 20px 0;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Open+to+collaborating+on+innovative+projects;Let's+build+something+amazing+together;Feel+free+to+reach+out+for+opportunities!" alt="Connect Message" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rythmokay&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
