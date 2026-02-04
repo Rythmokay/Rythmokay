@@ -126,9 +126,6 @@ I'm a full-stack web developer and freelancer currently pursuing a B.Tech in **A
 </div>
 
 
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rythmokay&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
