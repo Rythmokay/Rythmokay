@@ -37,7 +37,6 @@ I'm a full-stack web developer and freelancer currently pursuing a B.Tech in **A
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/rythm-jagga-393791309/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-profile-000000?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=20BEFF)](https://kaggle.com/rythmj)
 [![Instagram](https://img.shields.io/badge/Instagram-follow-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/rythm_511)
-[![YouTube](https://img.shields.io/badge/YouTube-watch-000000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000)](https://youtube.com/@codingduck-quackquack)
 [![LeetCode](https://img.shields.io/badge/LeetCode-solve-000000?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116)](https://leetcode.com/u/rythmjagga1609/)
 [![GeeksforGeeks](https://img.shields.io/badge/GFG-code-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2F8D46)](https://www.geeksforgeeks.org/user/rythmgfg/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Contact-000000?style=for-the-badge&logo=fontawesome&logoColor=white&labelColor=purple)](https://rythm-five.vercel.app/)
