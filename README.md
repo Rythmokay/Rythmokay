@@ -1,4 +1,4 @@
-<img src="assets/hero.svg" alt="Hello, I'm Rythm Jagga, a developer who writes software like prose." width="100%" />
+<img src="hero.svg" alt="Hello, I'm Rythm Jagga, a developer who writes software like prose." width="100%" />
 
 <p align="center">
   <a href="https://rythm-claude.vercel.app">Portfolio</a> &nbsp;·&nbsp;
@@ -82,4 +82,4 @@ Before that I built cinema ticket booking with interactive seat selection at Pic
 
 <br/>
 
-<img src="assets/footer.svg" alt="Thanks for stopping by. rythm.meta@gmail.com" width="100%" />
+<img src="footer.svg" alt="Thanks for stopping by. rythm.meta@gmail.com" width="100%" />
