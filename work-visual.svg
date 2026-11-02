@@ -1,0 +1,38 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="90" y1="40" x2="1120" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#20171D"/>
+      <stop offset="1" stop-color="#2D1C2A"/>
+    </linearGradient>
+    <linearGradient id="card" x1="343" y1="104" x2="1000" y2="573" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6E6D4"/>
+      <stop offset="1" stop-color="#D9B79E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" rx="28" fill="url(#bg2)"/>
+  <circle cx="1057" cy="128" r="144" fill="#D68B6B" fill-opacity="0.14"/>
+  <circle cx="107" cy="595" r="180" fill="#F4D3A4" fill-opacity="0.09"/>
+
+  <g filter="url(#shadow)" xmlns="http://www.w3.org/2000/svg">
+    <rect x="210" y="116" width="780" height="492" rx="26" fill="url(#card)"/>
+    <rect x="250" y="160" width="396" height="176" rx="18" fill="#231B20"/>
+    <rect x="270" y="180" width="108" height="108" rx="20" fill="#D88B67"/>
+    <path d="M336 215C356 186 387 186 406 214C420 235 424 267 409 293C393 320 358 332 330 323C302 314 280 290 278 261C276 243 294 227 336 215Z" fill="#FBF4ED"/>
+    <rect x="402" y="198" width="202" height="18" rx="9" fill="#E6BE93" fill-opacity="0.9"/>
+    <rect x="402" y="234" width="176" height="18" rx="9" fill="#E6BE93" fill-opacity="0.7"/>
+    <rect x="402" y="270" width="152" height="18" rx="9" fill="#E6BE93" fill-opacity="0.4"/>
+
+    <rect x="250" y="374" width="234" height="190" rx="18" fill="#F9F4EE"/>
+    <rect x="510" y="374" width="230" height="190" rx="18" fill="#F2E7D9"/>
+    <rect x="766" y="374" width="186" height="190" rx="18" fill="#F8F2EA"/>
+    <text x="282" y="424" fill="#291F26" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">MyAudiocular</text>
+    <text x="282" y="508" fill="#755D65" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700">10</text>
+    <text x="282" y="542" fill="#755D65" font-family="Arial, Helvetica, sans-serif" font-size="18">band EQ</text>
+    <text x="548" y="424" fill="#291F26" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Influencer CRM</text>
+    <text x="548" y="502" fill="#291F26" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700">49</text>
+    <text x="548" y="540" fill="#755D65" font-family="Arial, Helvetica, sans-serif" font-size="18">tracked reviews</text>
+    <text x="798" y="424" fill="#291F26" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Airline app</text>
+    <text x="798" y="502" fill="#291F26" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700">17</text>
+    <text x="798" y="540" fill="#755D65" font-family="Arial, Helvetica, sans-serif" font-size="18">airports</text>
+  </g>
+</svg>
