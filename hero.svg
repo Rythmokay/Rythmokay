@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-label="Hello, I'm Rythm Jagga, a developer who writes software like prose.">
+  <rect width="1200" height="440" rx="14" fill="#3D212B"/>
+  <g font-family="'Newsreader', 'Iowan Old Style', Georgia, 'Times New Roman', serif">
+    <text x="72" y="84" font-size="13" letter-spacing="3.2" fill="#BFA19B">ANDROID &amp; FULL STACK DEVELOPER · DELHI, INDIA</text>
+    <text x="72" y="170" font-size="58" letter-spacing="-1.1" fill="#F5EFE6">Hello, I’m Rythm Jagga,</text>
+    <text x="72" y="236" font-size="58" letter-spacing="-1.1" fill="#F5EFE6">a <tspan font-style="italic" fill="#D68B6B">developer</tspan> who writes</text>
+    <text x="72" y="302" font-size="58" letter-spacing="-1.1" fill="#F5EFE6">software like prose.</text>
+    <text x="72" y="368" font-size="19" fill="#BFA19B">Kotlin · Jetpack Compose · MVVM · Spring Boot · Next.js</text>
+  </g>
+  <g aria-hidden="true">
+    <path d="M900 400 V210 A110 110 0 0 1 1120 210 V400 Z" fill="#EAE3D7"/>
+    <circle cx="1010" cy="196" r="35" fill="#D68B6B"/>
+    <path d="M930 400 V330 A80 80 0 0 1 1090 330 V400 Z" fill="#F6F2E8"/>
+  </g>
+  <text x="900" y="424" font-family="'Newsreader', Georgia, serif" font-size="13" font-style="italic" fill="#BFA19B">Fig. 1 — The author</text>
+</svg>
